@@ -570,7 +570,7 @@ function getCardId(value) {
     'Q♠',
     'K♠',
   ];
-  
+
   return cards.indexOf(value);
 }
 
